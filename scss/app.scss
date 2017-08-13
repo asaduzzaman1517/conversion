@@ -1,7 +1,11 @@
 /********************************************
+   GLOBAL FUNCTIONS
+********************************************/
+@import "0-plugins/bower_components/bootstrap/scss/functions";
+/********************************************
    GLOBAL VARIABLES
 ********************************************/
-@import "0-plugins/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+@import "0-plugins/bower_components/bootstrap/scss/variables";
 @import "variables";
 
 /********************************************
